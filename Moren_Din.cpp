@@ -1,3 +1,1 @@
-//Tøff kode
-
-//Edvard
+//Tøff
